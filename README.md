@@ -5,7 +5,8 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gabriel-cabral-79aa492a5?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 
 ![Gabriel GitHub stats](https://github-readme-stats.vercel.app/api?username=gab-dev10&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gab-dev10)](https://github.com/anuraghazra/github-readme-stats)
 
 
 ## Tecnologias que eu uso no meu dia
